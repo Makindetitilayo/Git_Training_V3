@@ -1,2 +1,4 @@
+GIT revert change 2
+
 "This is Sample File 1" 
 "This is comparison lecture" 
